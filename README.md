@@ -4,6 +4,8 @@
   <img src= "https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white" title= "DATAIKU" alt= "DATAIKU" width="110" height="40"/>&nbsp;
   <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title= "PYTHON" alt= "PYTHON" width="90" height="40"/>&nbsp;
   <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blacke" title= "LINUX" alt= "LINUX" width="70" height="40"/>&nbsp;
+  <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title= "DOCKER" alt= "DOCKER" width="70" height="40"/>&nbsp;
+  <img src= "https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" title= "KUBERNETES" alt= "KUBERNETES" width="90" height="40"/>&nbsp;
   <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title = "MYSQL" alt ="MYSQL" width="90" height="40"/>&nbsp;
   <img src= "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" title = "AZURE" alt ="AZURE" width="110" height="40"/>&nbsp;
    <img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title = "AWS" alt ="AWS" width="90" height="40"/>&nbsp;
