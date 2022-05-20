@@ -8,4 +8,7 @@
    <img src= "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title = "AWS" alt ="AWS" width="90" height="40"/>&nbsp;
    <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title = "POSTGRESQL" alt ="POSTGRESQL" width="100" height="40"/>&nbsp;
  </div>
-
+ 
+## INTRODUCTION 
+-- dataiku
+-- was a
