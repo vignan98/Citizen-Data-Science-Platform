@@ -10,6 +10,9 @@
  </div>
  
 ## INTRODUCTION 🙋‍♂️
+
+                    ![th](https://user-images.githubusercontent.com/84727716/169427050-e30ae219-3027-401b-8cf0-ace642577ac2.jpg)
+
   * As a Software Engineer at **Ericsson India Global Services** I worked on Complete configuration and Environmental set up of a complex, automated Data Science Application called **DATAIKU** which was onboared under the name **Citizen Data Science Platform**.
   * The three instances of the application POC, Sandbox, Production were configured and entire environmental set up was designed and orchestrated on Microsoft Azure & Linux.
   * Understanding the application and its design, Configuring Azure VMs, onboarding new features were the primary tasks involved during the installation process
