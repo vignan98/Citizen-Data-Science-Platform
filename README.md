@@ -1,4 +1,4 @@
-# ☑️ Citizen Data Science Platform
+# ☑️ Citizen Data Science Platform :
 
 <div>
   <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title= "PYTHON" alt= "PYTHON" width="90" height="40"/>&nbsp;
@@ -9,5 +9,19 @@
    <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title = "POSTGRESQL" alt ="POSTGRESQL" width="100" height="40"/>&nbsp;
  </div>
  
-## INTRODUCTION 
-  * As a Software Engineer at **Ericsson India Global Services** I worked on Complete configuration and Environmental set up of a complex, automated Data Science Application called **DATAIKU** which was onboared under the name **Citizen Data Science Platform** 
+## INTRODUCTION 🙋‍♂️
+  * As a Software Engineer at **Ericsson India Global Services** I worked on Complete configuration and Environmental set up of a complex, automated Data Science Application called **DATAIKU** which was onboared under the name **Citizen Data Science Platform**.
+  * The three instances of the application POC, Sandbox, Production were configured and entire environmental set up was designed and orchestrated on Microsoft Azure & Linux.
+  * Understanding the application and its design, Configuring Azure VMs, onboarding new features were the primary tasks involved during the installation process
+  * This Application requires knowledge of Data Science, Machine Learning to understand different workflows that were developed to automate the steps in Machine Learning
+
+## USE CASE & MY WORk 🖥️ 
+  
+  * Different business teams like Supply, Sourcing, Innovation have their Data in different database instances. The primary goal of these business teams is to analyse their data efficiently & Develop a Machine Learning model that would be used for future predictions. 
+  * As a part of Application Owners team our duties include understanding the use case,suggesting further steps in onboarding the data from postgresql/Mysql databases & supporting the business teams from Data Cleaning to Model deployment stage.
+  * Documentation of the entire installation process was carried out to track the progress and install the same application on other instances.
+  
+## HANDLING SECURITY QUESTIONS & PUSHING THE APPLICATION TO PRODUCTION
+  * Different Security questions regarding Data, and visibility of the Data, leakage of data from databases, User controls, admin controls were brainstormed and handled.
+  * Once the application was pushed to production, users were onboarded to work on different use case projects. The issues related to server Management, log Management, Memory Management were handled efficiently & quickly.
+  
