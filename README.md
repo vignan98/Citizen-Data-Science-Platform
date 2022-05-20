@@ -10,4 +10,4 @@
  </div>
  
 ## INTRODUCTION 
-  * As a Software Engineer at # Ericsson India Global Services 
+  * As a Software Engineer at **Ericsson India Global Services** I worked on Complete configuration and Environmental set up of a complex, automated Data Science Application called **DATAIKU** which was onboared under the name **Citizen Data Science Platform** 
