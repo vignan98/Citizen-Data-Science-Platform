@@ -10,5 +10,4 @@
  </div>
  
 ## INTRODUCTION 
-  * dataata
-  * daefwe
+  * As a Software Engineer at # Ericsson India Global Services 
