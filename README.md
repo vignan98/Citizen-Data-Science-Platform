@@ -15,13 +15,16 @@
   * Understanding the application and its design, Configuring Azure VMs, onboarding new features were the primary tasks involved during the installation process
   * This Application requires knowledge of Data Science, Machine Learning to understand different workflows that were developed to automate the steps in Machine Learning
 
-## USE CASE & MY WORk 🖥️ 
+## USE CASE & MY WORK 🖥️ 
   
   * Different business teams like Supply, Sourcing, Innovation have their Data in different database instances. The primary goal of these business teams is to analyse their data efficiently & Develop a Machine Learning model that would be used for future predictions. 
   * As a part of Application Owners team our duties include understanding the use case,suggesting further steps in onboarding the data from postgresql/Mysql databases & supporting the business teams from Data Cleaning to Model deployment stage.
   * Documentation of the entire installation process was carried out to track the progress and install the same application on other instances.
   
-## HANDLING SECURITY QUESTIONS & PUSHING THE APPLICATION TO PRODUCTION
-  * Different Security questions regarding Data, and visibility of the Data, leakage of data from databases, User controls, admin controls were brainstormed and handled.
+## APPLICATION IN PRODUCTION
+  * Different Security questions regarding Data, visibility of the Data, leakage of data from databases, User controls, admin controls were brainstormed and handled effectively.
   * Once the application was pushed to production, users were onboarded to work on different use case projects. The issues related to server Management, log Management, Memory Management were handled efficiently & quickly.
+  * The repeated tasks related to Log management, Disk management were automated using bash scripting.
+  * Integration of the application with new tools (ex: Tableau) was made after co-ordinating with the vendor team(Dataiku).
+  
   
