@@ -21,7 +21,7 @@
   * As a part of Application-owners team our duties include understanding the use case,suggesting further steps in onboarding the data from postgresql/Mysql databases & supporting the business teams from Data Cleaning to Model deployment stage.
   * Documentation of the entire installation process was carried out to track the progress and install the same application on different instances.
   
-## APPLICATION IN PRODUCTION
+## APPLICATION IN PRODUCTION 🏃‍♂️
   * Various Security questions regarding Data privacy, visibility of the Data, leakage of data from databases, User controls, admin controls were brainstormed and handled effectively.
   * Once the application was pushed to production, users were onboarded to work on different use case projects. The issues related to server Management, log Management, Memory Management were handled efficiently & quickly.
   * The repeated tasks related to Log management, Disk management were automated using bash scripting.
