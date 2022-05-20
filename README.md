@@ -1,6 +1,7 @@
 # ☑️ Citizen Data Science Platform :
 
 <div>
+  <img src= "https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white" title= "DATAIKU" alt= "DATAIKU" width="90" height="40"/>&nbsp;
   <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title= "PYTHON" alt= "PYTHON" width="90" height="40"/>&nbsp;
   <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blacke" title= "LINUX" alt= "LINUX" width="70" height="40"/>&nbsp;
   <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title = "MYSQL" alt ="MYSQL" width="90" height="40"/>&nbsp;
