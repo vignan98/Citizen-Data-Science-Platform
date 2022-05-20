@@ -15,10 +15,7 @@
   * Understanding the application and its design, Configuring Azure VMs, onboarding new features were the primary tasks involved during the installation process
   * This Application requires knowledge of Data Science, Machine Learning to understand different workflows that were developed to automate the steps in Machine Learning
 
-## USE CASE & MY WORK 🖥️ 
-  
-  [Dataiku DSS.pdf](https://github.com/vignan98/Citizen-Data-Science-Platform/files/8734927/Dataiku.DSS.pdf)
-  
+## USE CASE & MY WORK 🖥️   
   * Different business teams like Supply, Sourcing, Innovation have their Data in different database instances. The primary goal of these business teams is to analyse their data efficiently & Develop a Machine Learning model that would be used for future predictions. 
   * As a part of Application Owners team our duties include understanding the use case,suggesting further steps in onboarding the data from postgresql/Mysql databases & supporting the business teams from Data Cleaning to Model deployment stage.
   * Documentation of the entire installation process was carried out to track the progress and install the same application on other instances.
