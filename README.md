@@ -10,9 +10,7 @@
  </div>
  
 ## INTRODUCTION 🙋‍♂️
-
-    ![th](https://user-images.githubusercontent.com/84727716/169440009-920dda34-557a-4a5b-a07a-42541c0aeaef.jpg)
-
+    ![th](https://user-images.githubusercontent.com/84727716/169441594-6e0ce3cf-f7ee-43f6-8ec8-92597a3ea639.jpg)
 
   * As a Software Engineer at **Ericsson India Global Services** I worked on Complete configuration and Environmental set up of a complex, automated Data Science Application called **DATAIKU** which was onboared under the name **Citizen Data Science Platform**.
   * The three instances of the application POC, Sandbox, Production were configured and entire environmental set up was designed and orchestrated on Microsoft Azure & Linux.
