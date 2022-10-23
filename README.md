@@ -14,7 +14,7 @@
  
 ## INTRODUCTION 🙋‍♂️
 
-  * As a Software Engineer at **Ericsson India Global Services** I worked on configuring the entire Environmental set up of a complex, automated Data Science Application called **DATAIKU** which was onboared under the name **Citizen Data Science Platform**.
+  * As a Data Scientist at **Ericsson India Global Services** I worked on configuring the entire Environmental set up of a complex, automated Data Science Application called **DATAIKU** which was onboared under the name **Citizen Data Science Platform**.
   * Co-ordinated the three instances of the application POC, Sandbox, Production in Microsfot Azure & Linux Environments.
   * Understanding the application and its design, Configuring Azure VMs, Handling production issues, onboarding new features were the primary tasks involved during the installation process
   * This Application requires knowledge of Data Science, Machine Learning to understand different workflows that were developed to automate the steps in Machine Learning
